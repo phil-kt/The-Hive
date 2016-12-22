@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/CULC.unity
+- path: Assets/CULC-Branches.unity
   isLoaded: 1
   isActive: 1
